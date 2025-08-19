@@ -1,2 +1,2 @@
-# extraccion_de_datos_act1
+# extraccion_de_datos
 Actividad 2.1
